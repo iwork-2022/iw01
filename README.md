@@ -3,9 +3,9 @@ iOS assignment 0: Calculator App.
 
 请仿照Apple官方iOS中的计算器编写一个自己的计算器App，要求（利用Autolayout技术）支持竖屏（portrait）和横屏（landscape）两种使用模型，分别如下图所示：
 
-![竖屏](https://raw.githubusercontent.com/iwork-2021/iw01/master/images/portrait.png)
+![竖屏](images/portrait.png)
 
-![横屏](https://raw.githubusercontent.com/iwork-2021/iw01/master/images/landscape.png)
+![横屏](images/landscape.png)
 
 具体要求包括：
 
